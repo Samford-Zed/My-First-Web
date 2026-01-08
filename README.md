@@ -1,1 +1,1 @@
-This my first protifolio using HTML, CSS ,Js
+This my first protifolio using HTML, CSS ,JavaScript
