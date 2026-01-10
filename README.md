@@ -83,6 +83,6 @@ portfolio-website/
 
 <h2>📌 Author</h2>
 <p>
-  <b>Your Name:</b> Samuel (edit this if you want)<br />
+  <b>Your Name:</b> Samuel Zenebe<br />
   <b>Project:</b> First Portfolio Website
 </p>
