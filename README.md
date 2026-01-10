@@ -74,7 +74,7 @@ portfolio-website/
     <code>&lt;section id="about"&gt;...&lt;/section&gt;</code>
   </li>
   <li>
-    Ensure your CSS has an <code>.active</code> style for the highlighted nav link.
+    Ensure your CSS has an <code>.active</code> style for the highlighted nav link.,,,
     Example: <code>.nav-links a.active { font-weight: bold; }</code>
   </li>
 </ul>
