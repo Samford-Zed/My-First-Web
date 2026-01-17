@@ -84,5 +84,5 @@ portfolio-website/
 <h2>📌 Author</h2>
 <p>
   <b>Your Name:</b> Samuel Zenebe<br />
-  <b>Project:</b> First Portfolio Website
+  <b>Project:</b> First Portfolio Website.......
 </p>
